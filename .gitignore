@@ -1,0 +1,3 @@
+webapp-terraform/.terraform
+webapp-terraform/terraform.tfstate
+webapp-terraform/terraform.tfstate.backup
