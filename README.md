@@ -12,7 +12,9 @@ AWS_REGION=ap- < your AWS region >
 
 # webapp-helm
 Project instructions: https://1drv.ms/x/s!AjmFbdbExp7UhZx-dwOrL14mD8sOgw?e=rCoZKk
-    # 1. modifiy value.yaml
+    # 1. Create "webapp" namespace
+-> kubectl create namespace webapp
+    # 2. modifiy value.yaml
 -> repository: to your repo on docker hub
 -> tag: your tag image
     # 2. Install helm chart
