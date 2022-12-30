@@ -3,12 +3,12 @@ entries:
   webapp-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-30T14:14:35.0687087+07:00"
+    created: "2022-12-30T14:17:38.9933457+07:00"
     description: A Helm chart for Kubernetes
-    digest: 2cdceb12a1f0880a10ac97d86c9ebab12568fea3fffdaac06f5d2ca25ea8188f
+    digest: a3b9eba186f6eff70821b4172118076981f417cd2b033f3ba23da4cc7e0f6ca2
     name: webapp-helm
     type: application
     urls:
-    - https://reimagined-invention-2f5cb390.pages.github.io/webapp-helm-0.1.0.tgz
+    - http://khumbik.github.io/webapp/webapp-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-30T14:14:35.0652135+07:00"
+generated: "2022-12-30T14:17:38.9881371+07:00"
