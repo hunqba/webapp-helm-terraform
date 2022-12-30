@@ -12,5 +12,5 @@ spec:
   ports:
   - port: {{ .Values.service.port }}
     targetPort: {{ .Values.service.tarport }}
-    nodePort: {{ .Values.service.nodeport }}
+    # nodePort: {{ .Values.service.nodeport }}
 

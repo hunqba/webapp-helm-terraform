@@ -12,7 +12,7 @@ image:
 
 service:
   name: webapp
-  type: NodePort
+  type: LoadBalancer
   port: 8080
   targetport: 8080
   nodeport: 31010
