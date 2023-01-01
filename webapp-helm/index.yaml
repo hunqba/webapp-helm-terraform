@@ -3,12 +3,12 @@ entries:
   webapp-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-01T15:21:45.8577287+07:00"
+    created: "2023-01-01T15:54:24.2099936+07:00"
     description: A Helm chart for Kubernetes
-    digest: b7782738aff2895a891cbc1a07f0cd84f18476f0766f18be44f4b342ba2b0259
+    digest: d34fa907cc00a508959e78226ce82b98677320e34936e0e150b4aa28df098afc
     name: webapp-helm
     type: application
     urls:
-    - http://khumbik.github.io/webapp/webapp-helm/webapp-helm-0.1.0.tgz
+    - https://hunqba.github.io/webapp-helm-terraform/webapp-helm/webapp-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-01T15:21:45.8528624+07:00"
+generated: "2023-01-01T15:54:24.1817746+07:00"
